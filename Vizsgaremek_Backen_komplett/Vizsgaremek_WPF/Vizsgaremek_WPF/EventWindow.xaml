@@ -1,0 +1,12 @@
+﻿<Window x:Class="Vizsgaremek_WPF.EventWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Események" Height="200" Width="300">
+    <Grid>
+        <ComboBox x:Name="comboBoxEvents" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10"
+                  SelectionChanged="ComboBoxEvents_SelectionChanged" DisplayMemberPath="Title"/>
+        <Button Content="Törlés" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,100,0,0" Width="75" Height="30"
+                Click="DeleteButton_Click"/>
+    </Grid>
+</Window>
+

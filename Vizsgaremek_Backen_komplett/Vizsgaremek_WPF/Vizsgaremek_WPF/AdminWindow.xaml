@@ -1,0 +1,13 @@
+﻿<Window x:Class="Vizsgaremek_WPF.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Title="Főablak" Height="300" Width="200">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Események" Click="ShowEventsButton_Click" Margin="5"/>
+            <Button Content="Felhasználók" Click="ShowUsersButton_Click" Margin="5"/>
+            <Button Content="Kijelentkezés" Click="LogoutButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vizsgaremek_Backend", "Vizsgaremek_Backend\Vizsgaremek_Backend.csproj", "{37C655A6-AFB6-4E71-A70B-30267747D9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vizsgaremek_BackendTests1", "Vizsgaremek_BackendTests1\Vizsgaremek_BackendTests1.csproj", "{89BE97FF-C000-451E-8CEE-7C572D4935D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C655A6-AFB6-4E71-A70B-30267747D9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C655A6-AFB6-4E71-A70B-30267747D9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C655A6-AFB6-4E71-A70B-30267747D9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C655A6-AFB6-4E71-A70B-30267747D9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BE97FF-C000-451E-8CEE-7C572D4935D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BE97FF-C000-451E-8CEE-7C572D4935D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BE97FF-C000-451E-8CEE-7C572D4935D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BE97FF-C000-451E-8CEE-7C572D4935D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3888E89-E1A1-4704-A73A-6F46284B2491}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vizsgaremek_WPF", "Vizsgaremek_WPF\Vizsgaremek_WPF.csproj", "{8495EC0B-0393-4309-A8DB-97D1D7AD1A19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Wpf_telepito", "Wpf_telepito\Wpf_telepito.vdproj", "{D5AB96A1-70D7-4A4A-B731-DE80BEE1CEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8495EC0B-0393-4309-A8DB-97D1D7AD1A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8495EC0B-0393-4309-A8DB-97D1D7AD1A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8495EC0B-0393-4309-A8DB-97D1D7AD1A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8495EC0B-0393-4309-A8DB-97D1D7AD1A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AB96A1-70D7-4A4A-B731-DE80BEE1CEF3}.Debug|Any CPU.ActiveCfg = Debug
+		{D5AB96A1-70D7-4A4A-B731-DE80BEE1CEF3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AB49FB-C444-4453-A0EF-B293E7406499}
+	EndGlobalSection
+EndGlobal
